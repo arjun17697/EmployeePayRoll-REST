@@ -245,6 +245,7 @@ public class EmployeePayrollDBService {
 		}
 		return employeePayrollData;
 	}
+	
 
 	public void removeEmployeeFromDB(int empId) throws EmployeePayrollException {
 		String sql = String.format("UPDATE employee_payroll SET active = false WHERE id = '%s'", empId);

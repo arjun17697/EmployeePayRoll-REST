@@ -44,15 +44,6 @@
       "active": 1
     },
     {
-      "id": 30,
-      "company_id": 501,
-      "name": "Mark",
-      "gender": "M",
-      "salary": 2000000,
-      "start_date": "2016-02-01",
-      "active": 1
-    },
-    {
       "id": 7,
       "name": "Kalyan",
       "salary": 1000000,
