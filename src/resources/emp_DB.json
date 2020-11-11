@@ -1,0 +1,80 @@
+{
+  "employee_payroll": [
+    {
+      "id": 1,
+      "company_id": 0,
+      "name": "Vishal",
+      "gender": "M",
+      "salary": 1500000,
+      "start_date": "2018-02-06",
+      "active": 1
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "salary": 2500000,
+      "gender": "M",
+      "companyId": 0
+    },
+    {
+      "id": 3,
+      "company_id": 0,
+      "name": "Asifa",
+      "gender": "F",
+      "salary": 1800000,
+      "start_date": "2019-10-10",
+      "active": 1
+    },
+    {
+      "id": 5,
+      "company_id": 0,
+      "name": "Terisa",
+      "gender": "F",
+      "salary": 3000000,
+      "start_date": "2019-11-13",
+      "active": 0
+    },
+    {
+      "id": 6,
+      "company_id": 0,
+      "name": "Terisa",
+      "gender": "F",
+      "salary": 3000000,
+      "start_date": "2019-11-13",
+      "active": 1
+    },
+    {
+      "id": 30,
+      "company_id": 501,
+      "name": "Mark",
+      "gender": "M",
+      "salary": 2000000,
+      "start_date": "2016-02-01",
+      "active": 1
+    },
+    {
+      "id": 7,
+      "name": "Kalyan",
+      "salary": 1000000,
+      "startDate": {
+        "year": 2020,
+        "month": 11,
+        "day": 11
+      },
+      "gender": "M",
+      "companyId": 501
+    },
+    {
+      "id": 8,
+      "name": "Rashmi",
+      "salary": 1000000,
+      "startDate": {
+        "year": 2020,
+        "month": 11,
+        "day": 11
+      },
+      "gender": "F",
+      "companyId": 501
+    }
+  ]
+}
